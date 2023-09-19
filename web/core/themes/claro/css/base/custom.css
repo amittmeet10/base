@@ -1,0 +1,26 @@
+.ui-dialog .ui-dialog-titlebar {
+  padding: .5rem 4rem .5rem 1.5rem !important;
+  line-height: 1.2rem !important;
+}
+.ui-dialog .ui-dialog-title {
+  font-size: 1.224rem !important;
+  font-weight: normal !important;
+}
+
+.ui-dialog #drupal-modal .views-exposed-form .form-item .form-element {
+  padding: .3rem;
+  min-height: 2rem;
+}
+.ui-dialog #drupal-modal .views-exposed-form .form-type--select .form-element {
+  padding: .3rem 2rem !important;
+  min-height: 2rem;
+}
+.ui-dialog #drupal-modal .views-exposed-form .views-exposed-form__item--actions .button {
+  padding: .5rem 1rem;
+}
+
+.ui-dialog #drupal-modal .views-exposed-form { 
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1.5rem .5rem 1.5rem;
+}

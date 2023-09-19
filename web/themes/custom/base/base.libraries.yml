@@ -1,0 +1,5 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+      https://use.fontawesome.com/releases/v6.4.0/css/all.css: {}
