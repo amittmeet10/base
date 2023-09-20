@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * @file
+ * Contains header_footer_settings.module
+ */
+
+
+
+/**
+ * Implements hook_help().
+ */

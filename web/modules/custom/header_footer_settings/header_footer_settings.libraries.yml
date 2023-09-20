@@ -1,0 +1,6 @@
+style:
+  css:
+    base:
+      css/style.css: {}
+  js:
+    js/script.js: {}

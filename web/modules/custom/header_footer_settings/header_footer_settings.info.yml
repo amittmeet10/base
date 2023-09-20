@@ -1,0 +1,8 @@
+name: 'Header and Footer Settings'
+type: module
+description: 'This is Custom module for Header and footer block settings.'
+core_version_requirement: ^9 || ^10
+package: 'Custom'
+
+libraries:
+  - header_footer_settings/style
